@@ -9,7 +9,7 @@ from email.message import EmailMessage
 
 # account credentials
 username = "aditi@atulkbansal.com"
-password = "52794421@@ab"
+password = "##########"
 
 recog = sr.Recognizer()
 engine = pyttsx3.init()
